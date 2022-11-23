@@ -1,5 +1,5 @@
-# Welcome to Xav900's website
- A little introduction of myself
+#  Genshin Impact
+ **A little introduction of myself**
 - I like video games
 - Like watching action movies and watching anime
 - I like to hang out with friends
@@ -37,3 +37,4 @@ In liyue, the God of geo (stone) is also undercover but after 6000 years he is a
 
 Just a side note, There are different bosses around the map some being easy and some being hard, You can get different materials from each boss that can be used to upgrade your character's level and gain adventure rank experience ( The higher the rank, The more quests, area, bosses, and many other things you can do). 
 
+After doing enough quests you will get to meet kazuha and beidou in their ship and they will take you to a new region called inazuma.
