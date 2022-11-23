@@ -38,3 +38,7 @@ In liyue, the God of geo (stone) is also undercover but after 6000 years he is a
 Just a side note, There are different bosses around the map some being easy and some being hard, You can get different materials from each boss that can be used to upgrade your character's level and gain adventure rank experience ( The higher the rank, The more quests, area, bosses, and many other things you can do). 
 
 After doing enough quests you will get to meet kazuha and beidou in their ship and they will take you to a new region called inazuma.
+It had a very bad history as many wars had happend but to this day the people of inazuma are living calmly.
+Inazuma being called the land of thunder means that they also have an archon, Her name is Raiden Shogun/Ei, She is the God of electro and being one of the strongest archon.
+
+![Inazuma](https://static3.gamerantimages.com/wordpress/wp-content/uploads/2021/07/genshin-impact-inazuma.jpg)![God of electro](https://www.pcgamesn.com/wp-content/uploads/2021/08/genshin-impact-baal-build-raiden-shogun.jpg)
